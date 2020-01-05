@@ -6,8 +6,10 @@ import User from '../app/models/user';
 const models = [User]
 
 class Database {
+
   constructor() {
     this.init()
+    console.log('erro')
 
   }
   init() {
