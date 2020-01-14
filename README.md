@@ -1,2 +1,2 @@
 # backend-barberShop
-my first project in node.js
+my first node.js project.
